@@ -1,0 +1,4 @@
+cat Katze --
+dog Hund --
+house Haus --
+car Auto Fahrzeug
