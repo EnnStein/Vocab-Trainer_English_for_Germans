@@ -6,3 +6,6 @@ The existing files are just examples and no complete lists.
 Dieses Programm kann dazu verwendet werden, die eigenen Vokabelkenntnisse zu prüfen.
 Es unterstützt Deutsch-Englisch und umgekehrt, sowie unregelmäßige Verben in der Abfrage.
 Die angehängten Dateien sind Beispiele und keine vollständige Liste. Sie können zu Testzwecken verwendet werden.
+
+The pictures are from Pixabay or self-made.
+Die Bilder stammen von Pixabay oder wurden selbst erstellt.
